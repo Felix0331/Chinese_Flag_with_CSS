@@ -1,0 +1,42 @@
+.red{
+    background-color: red;
+    height: 600px;
+    width: 1000px;
+}
+.big-star{
+    display: inline-block;
+    font-size: 200px;
+    margin-left: 50px;
+    color: goldenrod;
+    vertical-align: top;
+    width: 200px;
+}
+.smaller-stars{
+    display: inline-block;
+    color: goldenrod;
+    font-size: 50px;
+    margin: 0px;
+    width: 100px;
+
+}
+.one{
+    margin: 0px;
+    transform: rotate(-30deg);
+}
+.two{
+    margin: 0px;
+    padding-left: 50px;
+    transform: rotate(-30deg);
+
+}
+.three{
+    margin: 0px;
+    padding-left: 50px;
+    /* transform: rotate(30deg); */
+
+}
+.four{
+    margin: 0px;
+    transform: rotate(30deg);
+
+}
